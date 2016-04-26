@@ -11,10 +11,26 @@
 	margin: 0 auto;
 
 }
+
+body {
+	margin: 0;
+}
 /**
 * Header
 **/
-
+header {
+	background-color: red;
+}
 /**
 * Main
 **/
+.width-50 {
+	width: 50%;
+	float: left;
+}
+
+p {
+	background-color: red;
+	border: 5px solid black;
+
+}
