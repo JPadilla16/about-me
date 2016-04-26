@@ -8,11 +8,7 @@
 		<header>
 		<h1>Jared Padilla</h1>
 		<p>Here are some words talking about me!</p>
-			<img src="images/IMG_0328.JPG" alt="New Mexico Buildings" height="25%" width="25%"/>
-		<h2></h2>
-		<h2></h2>
-		<h2></h2>
-		<h2></h2>
+		<img src="images/IMG_0328.JPG" alt="New Mexico Buildings" height="50%" width="50%"/>
 		</header>
 
 		<main>
