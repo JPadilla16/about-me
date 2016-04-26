@@ -4,7 +4,7 @@
 		<meta charset="ufc-8">
 
 		<!-- Adding CSS! -->
-		<link rel="stylesheet" href="css/style.css"
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 				
 		<title>About Me</title>
 	</head>
